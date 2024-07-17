@@ -12,6 +12,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 ### Tables
 
 1. **Type of equipment fragility curve data**:
+
 | Fragility Curve Type | Type | I0  | I1  |
 |----------------------|------|-----|-----|
 | FT1                  | Pole1| 0.18| 0.95|
