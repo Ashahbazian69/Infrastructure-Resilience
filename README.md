@@ -15,13 +15,8 @@ It includes tables and figures related to the fragility curve data, resilience m
 1. **Type of equipment fragility curve data**:
 <img width="1177" alt="Table1" src="https://github.com/user-attachments/assets/1f232d50-9cdf-41a5-ad2c-f6f510b78814">
 
-
 2. **EDS & WDS section summary**:
-
-
-
-
-
+<img width="1063" alt="Table2" src="https://github.com/user-attachments/assets/88780b72-5d0e-4ced-9bb6-afac8e866109">
 
 3. **Aerial distance between bridges and CRCs**:
 
