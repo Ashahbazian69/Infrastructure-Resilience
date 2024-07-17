@@ -13,7 +13,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 ### Tables
 
 1. **Type of equipment fragility curve data**:
-
+<img width="1177" alt="Table1" src="https://github.com/user-attachments/assets/1f232d50-9cdf-41a5-ad2c-f6f510b78814">
 
 
 2. **EDS & WDS section summary**:
