@@ -41,9 +41,6 @@ It includes tables and figures related to the fragility curve data, resilience m
 <img src="https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6" alt="Fig6_Network partitioning result" width="400"/>
 
 
-![Fig6_Network partitioning result](https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6)
-
-
 ## License
 
 This repository is licensed under the ---- License.
