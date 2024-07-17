@@ -7,6 +7,9 @@ Authors:
 
 **Abbas Shahbazian**, Graduate Student Member IEEE, **Alireza Fereidunian**, Senior Member IEEE, **Saeed Manshadi**, Senior Member IEEE, **Rouzbeh Haghighi**, Graduate Student Member IEEE
 
+Paper link:
+
+
 It includes tables and figures related to the fragility curve data, resilience modeling, and optimization strategies discussed in the paper. The repository aims to provide additional resources and data to support the research findings and facilitate further studies in the field of urban infrastructure resilience.
 
 ## Overview
