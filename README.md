@@ -33,7 +33,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 1. **Aerial distance between bridges and CRCs**:
 
-
+![Fig5_Aerial_distance_bridges](https://github.com/user-attachments/assets/c7d51a46-7820-47c1-9e81-302dece6f58e)
 
 2. **Optimal switch location and network partitioning result**:
 
