@@ -38,7 +38,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 2. **Optimal switch location and network partitioning result**:
 
-<img src="https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6" alt="Fig6_Network partitioning result" width="400"/>
+<img src="https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6" alt="Fig6_Network partitioning result" width="600"/>
 
 
 ## License
