@@ -38,7 +38,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 2. **EDS & WDS section summary**:
 
 
-| One Pylon every 60 meters |
+| One Pylon every 60 meters ----------------------------------------|
 |--------------|--------------|----------------|----|----|----|----|----|----|
 | Section Type | Length (mi) | Section Number | P1 | P2 | P3 | P4 | P5 | P6 |
 |--------------|--------------|----------------|----|----|----|----|----|----|
