@@ -37,9 +37,10 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 2. **EDS & WDS section summary**:
 
+## EDS & WDS section summary
 
-One Pylon every 60 meters
-|--------------|--------------|----------------|----|----|----|----|----|----|
+### One Pylon every 60 meters.
+
 | Section Type | Length (mi) | Section Number | P1 | P2 | P3 | P4 | P5 | P6 |
 |--------------|--------------|----------------|----|----|----|----|----|----|
 | E1           | 0.373        | 2,6,10,14,17,21,25,28,30,34,38,41,43,46,49,51,55,58,61,4,67 | 8  | 2  | 0  | 0  | 0  | 0  |
@@ -52,6 +53,8 @@ One Pylon every 60 meters
 | W2           | 0.734        | 1:5,10:26,32:38| ---| ---| ---| ---| ---| ---|
 | Water Network| 25.975       | all            | ---| ---| ---| ---| ---| ---|
 | Electrical Network | 57.514 | all            | 233| 140| 96 | 34 | 22 | 8  |
+
+
 
 
 3. **Aerial distance between bridges and CRCs**:
