@@ -30,6 +30,8 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 3. **Aerial distance between bridges and CRCs**:
 
+<img width="1197" alt="Screenshot 2024-07-21 at 14 39 14" src="https://github.com/user-attachments/assets/1011e7fa-63fb-4a67-8e3d-a5c50c379253">
+
 
 ### Figures
 
