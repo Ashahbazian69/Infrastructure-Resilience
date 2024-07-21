@@ -28,13 +28,15 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 <img width="1063" alt="Table2" src="https://github.com/user-attachments/assets/88780b72-5d0e-4ced-9bb6-afac8e866109">
 
+3. **Aerial distance between bridges and CRCs**:
 
 
 ### Figures
 
-1. **Aerial distance between bridges and CRCs**:
+1. **The staged resilience curve concept [1]**:
 
-![Fig5_Aerial_distance_bridges](https://github.com/user-attachments/assets/c7d51a46-7820-47c1-9e81-302dece6f58e)
+<img width="488" alt="Fig3_resilience curve" src="https://github.com/user-attachments/assets/d23cbada-75cb-49dd-aed1-391e229a3b83">
+
 
 2. **Optimal switch location and network partitioning result**:
 
@@ -46,4 +48,4 @@ It includes tables and figures related to the fragility curve data, resilience m
 This repository is licensed under the ---- License.
 
 ## References
-
+[1]: A. Shahbazian, A. Fereidunian, S. D. Manshadi, and R. Haghighi, “A grid-aware framework for resilience modelling, assessment and enhancement by rcs placement in distribution systems,” Electric Power Systems Research, vol. Under review, 2024.
