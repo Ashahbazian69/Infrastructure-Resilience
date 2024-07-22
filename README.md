@@ -12,12 +12,11 @@ Authors:
 Paper link:
 
 
+
+## Description
+
 It includes tables and figures related to the fragility curve data, resilience modeling, and optimization strategies discussed in the paper. The repository aims to provide additional resources and data to support the research findings and facilitate further studies in the field of urban infrastructure resilience.
 
-## Overview
-- 
-- 
-- 
 
 ## Contents
 ### Tables
