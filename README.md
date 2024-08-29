@@ -35,7 +35,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 
 ### Figures
-1. **The staged resilience curve concept [1]**:
+1. **Sample Relief Package with Essential Resources**:
 
 <img width="600" alt="Sample Relief Package with Essential Resources" src="https://github.com/user-attachments/assets/48948e33-e6b0-4620-ad51-a72ce85f161c">
 
