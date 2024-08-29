@@ -45,7 +45,20 @@ It includes tables and figures related to the fragility curve data, resilience m
 <img width="488" alt="Fig3_resilience curve" src="https://github.com/user-attachments/assets/d23cbada-75cb-49dd-aed1-391e229a3b83">
 
 
-3. **Optimal switch location and network partitioning result**:
+3. **Electricity Distribution system (EDS) - RBTS4**:
+
+
+
+
+4. **Water Distribution System (WDS)**:
+
+
+
+5. **Transportation System (TS)**:
+
+
+
+6. **Optimal switch location and network partitioning result**:
 
 <img src="https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6" alt="Fig6_Network partitioning result" width="600"/>
 
