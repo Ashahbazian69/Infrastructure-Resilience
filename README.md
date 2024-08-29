@@ -35,13 +35,17 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 
 ### Figures
-
 1. **The staged resilience curve concept [1]**:
+
+![Fig1_relief_Pack](https://github.com/user-attachments/assets/48948e33-e6b0-4620-ad51-a72ce85f161c)
+
+
+2. **The staged resilience curve concept [1]**:
 
 <img width="488" alt="Fig3_resilience curve" src="https://github.com/user-attachments/assets/d23cbada-75cb-49dd-aed1-391e229a3b83">
 
 
-2. **Optimal switch location and network partitioning result**:
+3. **Optimal switch location and network partitioning result**:
 
 <img src="https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6" alt="Fig6_Network partitioning result" width="600"/>
 
@@ -52,3 +56,4 @@ This repository is licensed under the ---- License.
 
 ## References
 [1]: A. Shahbazian, A. Fereidunian, S. D. Manshadi, and R. Haghighi, “A grid-aware framework for resilience modelling, assessment and enhancement by rcs placement in distribution systems,” Electric Power Systems Research, vol. Under review, 2024.
+Available at SSRN: https://ssrn.com/abstract=4829072 or http://dx.doi.org/10.2139/ssrn.4829072
