@@ -47,15 +47,16 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 3. **Electricity Distribution system (EDS) - RBTS4**:
 
-
+![1](https://github.com/user-attachments/assets/847edaba-a65c-4176-aac2-e85fce945ea8)
 
 
 4. **Water Distribution System (WDS)**:
 
-
+![2](https://github.com/user-attachments/assets/563245c0-c309-425f-83af-ae8723686891)
 
 5. **Transportation System (TS)**:
 
+![3](https://github.com/user-attachments/assets/612dbb2f-cf30-43da-9dce-f803edfbfcbb)
 
 
 6. **Optimal switch location and network partitioning result**:
