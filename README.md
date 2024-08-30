@@ -67,6 +67,10 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 <img src="https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6" alt="Fig6_Network partitioning result" width="600"/>
 
+7. **Population distribution for relief in load points**:
+
+<img src="https://github.com/user-attachments/assets/e1163dce-d274-4d56-99b3-20551c1c7f71" width="600"/>
+
 
 ## License
 
