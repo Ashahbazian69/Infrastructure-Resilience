@@ -31,7 +31,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 3. **DRCS AND CRCS SUMMARY**:
 
-<img width="600" alt="Table 3" src="https://github.com/user-attachments/assets/1011e7fa-63fb-4a67-8e3d-a5c50c379253">
+<img width="600" alt="Table 3" src="https://github.com/user-attachments/assets/a63e79c0-6ddf-4173-b34e-c44424bb3148">
 
 4. **Aerial distance between bridges and CRCs**:
 
