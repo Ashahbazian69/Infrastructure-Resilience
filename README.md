@@ -44,23 +44,23 @@ It includes tables and figures related to the fragility curve data, resilience m
 <img width="600" alt="Sample Relief Package with Essential Resources" src="https://github.com/user-attachments/assets/48948e33-e6b0-4620-ad51-a72ce85f161c">
 
 
-2. **The staged resilience curve concept [1]**:
-
-<img width="488" alt="Fig3_resilience curve" src="https://github.com/user-attachments/assets/d23cbada-75cb-49dd-aed1-391e229a3b83">
-
-
-3. **Electricity Distribution system (EDS) - RBTS4**:
+2. **Electricity Distribution system (EDS) - RBTS4**:
 
 <img width="600" alt="Fig3" src="https://github.com/user-attachments/assets/847edaba-a65c-4176-aac2-e85fce945ea8">
 
 
-4. **Water Distribution System (WDS)**:
+3. **Water Distribution System (WDS)**:
 
 <img width="600" alt="Fig4" src="https://github.com/user-attachments/assets/563245c0-c309-425f-83af-ae8723686891">
 
-5. **Transportation System (TS)**:
+4. **Transportation System (TS)**:
 
 <img width="600" alt="Fig5" src="https://github.com/user-attachments/assets/612dbb2f-cf30-43da-9dce-f803edfbfcbb">
+
+
+5. **The staged resilience curve concept [1]**:
+
+<img width="488" alt="Fig3_resilience curve" src="https://github.com/user-attachments/assets/d23cbada-75cb-49dd-aed1-391e229a3b83">
 
 
 6. **Optimal switch location and network partitioning result**:
