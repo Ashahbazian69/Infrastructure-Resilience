@@ -50,7 +50,7 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 
 3. **Water Distribution System (WDS)**:
-4. 
+
 <img width="600" alt="Fig5" src="https://github.com/user-attachments/assets/acdff300-2229-4c18-a33c-c46c07d8a44d">
 
 
