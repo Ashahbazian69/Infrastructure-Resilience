@@ -50,13 +50,13 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 
 3. **Water Distribution System (WDS)**:
+4. 
+<img width="600" alt="Fig5" src="https://github.com/user-attachments/assets/acdff300-2229-4c18-a33c-c46c07d8a44d">
+
+
+5. **Transportation System (TS)**:
 
 <img width="600" alt="Fig4" src="https://github.com/user-attachments/assets/f827296a-877c-4cc8-9a05-1613143b7572">
-
-
-4. **Transportation System (TS)**:
-
-<img width="600" alt="Fig5" src="https://github.com/user-attachments/assets/acdff300-2229-4c18-a33c-c46c07d8a44d">
 
 
 5. **The staged resilience curve concept [1]**:
