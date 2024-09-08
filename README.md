@@ -66,7 +66,8 @@ It includes tables and figures related to the fragility curve data, resilience m
 
 6. **Optimal switch location and network partitioning result**:
 
-<img src="https://github.com/user-attachments/assets/b9ccec23-5cb8-4b94-ae2f-c5275c0456f6" alt="Fig6_Network partitioning result" width="600"/>
+<img src="https://github.com/user-attachments/assets/e0af2d3b-a8f1-426a-af79-425e1cb7a138" alt="Fig6_Network partitioning result" width="600"/>
+
 
 7. **Population distribution for relief in load points**:
 
