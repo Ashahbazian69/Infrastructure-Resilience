@@ -47,7 +47,8 @@ It includes tables and figures related to the fragility curve data, resilience m
 2. **Electricity Distribution system (EDS) - RBTS4**:
 
 <img width="600" alt="Fig3" src="https://github.com/user-attachments/assets/847edaba-a65c-4176-aac2-e85fce945ea8">
-![Elec](https://github.com/user-attachments/assets/e9157452-8e78-4a2c-941b-78a54b1ddd55)
+<img width="600" alt="Fig3" src="[https://github.com/user-attachments/assets/847edaba-a65c-4176-aac2-e85fce945ea8](https://github.com/user-attachments/assets/e9157452-8e78-4a2c-941b-78a54b1ddd55)">
+
 
 
 3. **Water Distribution System (WDS)**:
